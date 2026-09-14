@@ -1,13 +1,13 @@
 # Overview
-Welcome to my analysis of the data job market, focusing on data analysis roles. I built this project to better understand the job landscape and what companies are looking for when hiring for a data analysis position. This project delves into the top-paying and in-demand skills companies are looking for in applicants to help find optimal job opportunities for data analysts.
+I built this project to better understand the job landscape and what companies are looking for when hiring for a data analysis position. This project delves into the top-paying and in-demand skills companies are looking for in applicants to help find optimal job opportunities for data analysts.
 
-The data sources from [Luke Barousse's Python Course](https://github.com/lukebarousse/Python_Data_Analytics_Course), which provides a foundation for my analysis, contains detailed information about job titles, salaries, locations, and essential job skills. Using Python, I explore questions including the most demanded skills, salary trends, and intersection of demand and salary in data analytics.
+The data I used for this project is from [Luke Barousse's Python Course](https://github.com/lukebarousse/Python_Data_Analytics_Course), which provides a foundation for my analysis, contains detailed information about job titles, salaries, locations, and essential job skills. Using Python, I explore questions including the most demanded skills, salary trends, and intersection of demand and salary in data analytics.
 
 # The Questions
 Here are the questions I'm addressing in this project:
 
 1. What are the skills most in demand for the top 3 most popular data roles?
-2. How are in-deamnd skills trending for Data Analysts?
+2. How are in-demand skills trending for Data Analysts?
 3. How well do jobs and skills pay for Data Analysts?
 4. What are skills that data analysts should learn to best succeed?
 
@@ -131,7 +131,6 @@ plt.show()
 
 - Senior Data Analysts have the highestsalaries compared to all other roles. The median salary is around $155K to $160K and the range between $125K - $175K with the highest salaries reaching around $450K to $475K.
 
-# The Analysis
 ## 3. How well do jobs and skills pay for Data 
 ### Highest Paid & Most Demanded Skills for Data Analyts
 
