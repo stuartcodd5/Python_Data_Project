@@ -42,11 +42,11 @@ To answer this question, I filtered out those data roles by which ones were the 
 
 This query highelights the most popular job titles and their top skills, showing which skills I should pay attention to when I'm targeting a role I'd like to apply for.
 
-View my notebook with detailed steps here:  [2_Skill_Demand.ipynb](Project\2_Skill_Demand.ipynb)
+View my notebook with detailed steps here:  [2_Skill_Demand.ipynb](Project/2_Skill_Demand.ipynb)
 
 ### Visualize Data
 
-![Visualization of Top Skills for Data Roles](Project\Images\skill_demand_all_data_roles.png)
+![Visualization of Top Skills for Data Roles](Project/Images/skill_demand_all_data_roles.png)
 
 ### Insights
 
@@ -57,7 +57,7 @@ View my notebook with detailed steps here:  [2_Skill_Demand.ipynb](Project\2_Ski
 - Data Engineers require more specialized skills (AWS, Azure, Spark) that focus on the Cloud compared to Data Analysts and Data Scientists who are expected to be procficient in general data management tools (SQL, Tableau)
 
 
-## 2. How are in-demand skills trending for Dta Analysts?
+## 2. How are in-demand skills trending for Data Analysts?
 
 ### Visualize Data
 
@@ -84,7 +84,7 @@ plt.show()
 ```
 
 ### Results
-![Trending Skills for Data Analysts](Project\Images\trending_skills_for_data_analysts_in_US.png)
+![Trending Skills for Data Analysts](Project/Images/trending_skills_for_data_analysts_in_US.png)
 
 ### Insights
 
@@ -113,7 +113,7 @@ plt.xlim(0, 600000)
 plt.show()
 ```
 
-![Salary Distributions of Data Jobs in the US](Project\Images\salary_distr_in_US.png)
+![Salary Distributions of Data Jobs in the US](Project/Images/salary_distr_in_US.png)
 
 ### Insights
 
@@ -150,7 +150,7 @@ plt.show()
 
 ```
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](image.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](Project\Images\highest_skills_and_most_in_demand_skills.png)
 * Two separate graphs visualizing the highest paid skills and ost in-demand skills for data analysts in the US.*
 
 - The top graph shows more technical skills like `dpylr`, `bitbucket`, `gitlab`, etc. These skills are associated with higher salaries ranging from $148K to almost $200K, suggesting analysts can increase earning potential with higher technical proficiency
@@ -194,7 +194,7 @@ plt.show()
 
 ```
 
-![Most Optimal Skills for Data Analysts](Project\Images\most_optimal_skills_for_DAs.png)
+![Most Optimal Skills for Data Analysts](Project/Images/most_optimal_skills_for_DAs.png)
 
 ## What's the most optimal skill for Data Analysts?
 #### Insights
